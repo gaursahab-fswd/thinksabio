@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/thinksabio/static/css/main.addcbf87.css",
+    "main.js": "/thinksabio/static/js/main.359ccc26.js",
+    "static/media/tslogo-dark.png": "/thinksabio/static/media/tslogo-dark.f5ca46f0875a01b59228.png",
+    "index.html": "/thinksabio/index.html",
+    "main.addcbf87.css.map": "/thinksabio/static/css/main.addcbf87.css.map",
+    "main.359ccc26.js.map": "/thinksabio/static/js/main.359ccc26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addcbf87.css",
+    "static/js/main.359ccc26.js"
+  ]
+}
